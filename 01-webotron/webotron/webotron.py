@@ -17,6 +17,7 @@ import mimetypes
 import boto3
 #from botocore.exceptions import ClientError
 import click
+from bucket import BucketManager
 
 SESSION = boto3.Session()
 S3 = SESSION.resource('s3')
