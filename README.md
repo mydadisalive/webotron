@@ -1,3 +1,4 @@
+
 # Automating AWS with Python
 
 ## 01-webotron
@@ -12,3 +13,4 @@ Webotron currently has the following features:
 - List contents of a bucket
 - Create and set up bucket
 - Sync direcory tree to bucket
+- Set AWS profile with --profile=<profileName>
