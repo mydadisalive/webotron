@@ -13,6 +13,7 @@ pylint = "*"
 boto3 = "*"
 ipython = "*"
 click = "*"
+pyflakes = "*"
 
 [requires]
 python_version = "3.7"
